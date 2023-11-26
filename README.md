@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/fRnEzZY.jpeg" heigth="1280" width="1280">
  
 <h4 align="justify" >
-Estamos vivendo em uma era onde a interação homem-máquina está constantemente evoluindo e se tornando cada vez mais intuitiva e eficiente. Com o objetivo de contribuir para essa evolução, estive trabalhando em um código inovador que permita aos usuários do BigLinux controlar a interface do usuário de seus computadores usando um joystick.
+Estamos vivendo em uma era onde a interação homem-máquina está constantemente evoluindo e se tornando cada vez mais intuitiva e eficiente. Com o objetivo de contribuir para essa evolução, estive trabalhando em um código inovador que permita aos usuários do BigLinux interagir com seus computadores usando um joystick.
 <br><br>
 Este código, escrito em C, é um primeiro passo, pensado para transformar a maneira como interagimos com nossos computadores. O interpretador permite que você controle o cursor do mouse, simule cliques e execute atalhos de teclado, tudo através do uso de um joystick. Além disso, ele oferece a capacidade ajustar a configuração em tempo real e suporta o uso de vários joysticks.
 <br><br>
