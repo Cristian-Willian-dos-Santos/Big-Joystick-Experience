@@ -1,0 +1,20 @@
+Este documento visa auxiliar o mapeamento manual através do documento config.txt
+
+Vetor buttons:
+Posição 0 = A;
+Posição 1 = B;
+Posição 2 = X;
+Posição 3 = Y;
+Posição 4 = L1;
+Posição 5 = R1;
+Posição 6 = SELECT;
+Posição 7 = START;
+
+Vetor axis:
+Posição 0 = Analógigo esquerdo - Movimento horizontal do mouse;
+Posição 1 = Analógigo esquerdo - Movimento vertical do mouse;
+Posição 2 = L2;
+Posição 3 = Analógigo direito - Scroll do mouse;
+Posição 4 = R2;
+Posição 5 = Setas direcionais horizontais;
+Posição 6 = Setas direcionais verticais;
