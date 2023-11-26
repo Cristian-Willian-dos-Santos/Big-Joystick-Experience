@@ -10,5 +10,5 @@ Este código, escrito em C, é um primeiro passo, pensado para transformar a man
 <br><br>
 O propósito com Big Joystick Experience é proporcionar uma experiência de usuário mais envolvente e divertida, ao mesmo tempo que oferece uma nova maneira de navegar e interagir com a interface do usuário. Seja você um jogador procurando uma nova maneira de interagir com seu sistema operacional, ou alguém que busca uma alternativa ao uso tradicional do teclado e do mouse, este código escrevi para você.<h4>
 
-<h3 align="right">Atenciosamente,<br>Cristian Willian dos Santos<h3>
-<h4 align="right">Graduando em Engenharia de Computação<h4>
+<h3 align="right">Atenciosamente, Cristian Willian dos Santos<h3>
+<h4 align="right">Graduando em Engenharia de Computação - UPF<h4>
