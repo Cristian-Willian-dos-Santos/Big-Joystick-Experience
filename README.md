@@ -9,3 +9,6 @@ Estamos vivendo em uma era onde a interação homem-máquina está constantement
 Este código, escrito em C, é um primeiro passo, pensado para transformar a maneira como interagimos com nossos computadores. O interpretador permite que você controle o cursor do mouse, simule cliques e execute atalhos de teclado, tudo através do uso de um joystick. Além disso, ele oferece a capacidade ajustar a configuração em tempo real e suporta o uso de vários joysticks.
 <br><br>
 O propósito com Big Joystick Experience é proporcionar uma experiência de usuário mais envolvente e divertida, ao mesmo tempo que oferece uma nova maneira de navegar e interagir com a interface do usuário. Seja você um jogador procurando uma nova maneira de interagir com seu sistema operacional, ou alguém que busca uma alternativa ao uso tradicional do teclado e do mouse, este código escrevi para você.<h4>
+
+<h2 align="right">Atenciosamente,
+                                 Cristian Willian dos Santos<h2>
